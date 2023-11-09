@@ -1,0 +1,16 @@
+*.iml
+.gradle/**
+.idea/**
+build.gradle.kts
+gradle.properties
+gradlew
+gradlew.bat
+local.properties
+settings.gradle.kts
+app/build/**
+app/libs/**
+app/.gitignore
+app/build.gradle.kts
+app/proguard-rules.pro
+app/src/androidTest/**
+app/src/test/**
