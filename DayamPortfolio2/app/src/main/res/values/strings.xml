@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dayam Portfolio</string>
+    <string name="st_norbert_school">
+               <b>ST. NORBERT SCHOOL</b>\n
+               Secondary (X)\n
+               >> Year of completion - 2018\n
+              >> Percentage -72%\n
+
+    </string>
+    <string name="senior">
+                <b>ST. NORBERT SCHOOL</b>\n
+                Senior secondary (XII),SCIENCE\n
+                >> Year of completion - 2020\n
+                >> Percentage -76.8%\n
+
+    </string>
+    <string name="College">
+                <b>Jamia Hamdard</b>\n
+                >> Btech CSE | Present
+
+
+    </string>
+</resources>
